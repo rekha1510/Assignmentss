@@ -1,3 +1,4 @@
+//sum of principle diagonal elements
 #include<stdio.h>
 int main()
 {

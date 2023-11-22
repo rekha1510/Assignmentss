@@ -1,3 +1,4 @@
+//diff between principle and diagonal elements in a matrix
 #include<stdio.h>
 int main()
 {

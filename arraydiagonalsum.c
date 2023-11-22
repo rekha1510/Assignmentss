@@ -1,3 +1,4 @@
+//printing the main diagonal elements of the matrix
 #include<stdio.h>
 int main()
 {

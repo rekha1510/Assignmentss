@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int matrix[10][10], transpose[10][10], row, col, i, j;
 
@@ -14,7 +13,7 @@ int main() {
         }
     }
 
-    // Calculating the transpose of the matrix
+    
     for (i = 0; i < row; ++i) {
         for (j = 0; j < col; ++j) {
             transpose[j][i] = matrix[i][j];
@@ -22,7 +21,7 @@ int main() {
     }
 
 
-    // Displaying the transpose matrix
+    
     printf("Transpose of the Matrix:\n");
     for (i = 0; i < col; ++i) {
         for (j = 0; j < row; ++j) {

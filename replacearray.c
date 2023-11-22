@@ -1,3 +1,4 @@
+//replacing positive numbers with 1 and negative numbers with 0
 #include<stdio.h>
 int main()
 {

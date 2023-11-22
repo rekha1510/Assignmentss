@@ -1,3 +1,4 @@
+//calculate the sum of even numbers in the given array
 #include<stdio.h>
 int main()
 {

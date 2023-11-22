@@ -1,4 +1,4 @@
-
+//sum of the absolute values of the elements in an array using a separate function
 #include<math.h>
 #include<stdio.h>
 int arrsum(int,int[]);

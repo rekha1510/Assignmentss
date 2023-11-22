@@ -1,3 +1,4 @@
+//calculate sum of odd numbers in an array
 #include<stdio.h>
 int main()
 {
